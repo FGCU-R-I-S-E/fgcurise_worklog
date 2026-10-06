@@ -2,7 +2,7 @@
 
 A lightweight, standalone web form for [R.I.S.E. (Real Independence, Successful Employment)](https://www.fgcu.edu/rise) interns to log their weekly work hours and send them directly to their job coach.
 
-**Live form:** https://fgcurise.github.io/fgcurise_worklog
+**Live form:** https://fgcu-r-i-s-e.github.io/fgcurise_worklog/
 
 ---
 
